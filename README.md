@@ -28,8 +28,8 @@ This project demonstrates sketch image processing using MATLAB. The process invo
 
 ## Code Overview
 - `sketch_image_processing.m`: The main MATLAB script that performs the sketch image processing operations.
-- `Image-3.jpg`: The original image used for processing.
-- `Final_image.jpg`: The final processed image obtained after running the script.
+- `Original-Image.jpg`: The original image used for processing.
+- `Final-Image.jpg`: The final processed image obtained after running the script.
 
 ## Results
 The project involves the following steps:
