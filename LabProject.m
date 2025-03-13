@@ -2,10 +2,6 @@ close all;
 clear all;
 clc;
 
-%EE-462 Digital Image Processing
-%Faik Doruk Akgüney
-%201726003
-
 %Read an image
 original_image = imread("Image-3.jpg");
 
